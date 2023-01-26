@@ -1,0 +1,4 @@
+INSERT INTO `producto`(`codigo`, `cantidad`, `descripcion`, `precio`) VALUES (9,100,'me falto el iva',10.80);
+INSERT INTO `producto`(`codigo`, `cantidad`, `descripcion`, `precio`) VALUES (10,100,'y el total profa perdon',2.55);
+
+Link del drive: https://docs.google.com/document/d/1FsILTEfaKhLApaGoS5xrX-MyV7086KfH/edit?usp=sharing&ouid=100553149805374070763&rtpof=true&sd=true
